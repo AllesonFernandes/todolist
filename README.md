@@ -13,7 +13,7 @@ Este projeto é um **Gerenciador de Tarefas** desenvolvido como prática de estu
 
 - [React.js](https://react.dev/) — Biblioteca JavaScript para criação de interfaces.
 - [Tailwind CSS](https://tailwindcss.com/) — Framework utilitário para estilização rápida e responsiva.
-- [Vite](https://vitejs.dev/) *(opcional, caso tenha usado para iniciar o projeto)* — Empacotador leve e rápido.
+- [Vite](https://vitejs.dev/) — Empacotador leve e rápido.
 
 ## 🧠 Conceitos que explorei
 
