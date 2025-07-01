@@ -2,6 +2,9 @@
 
 Este projeto é um **Gerenciador de Tarefas** desenvolvido como prática de estudos em **React.js** e **Tailwind CSS**, com foco em componentes reutilizáveis e interações dinâmicas no front-end. Faz parte do meu processo de aprendizagem no curso de **Sistemas para Internet**.
 
+🔗 **Acesse o projeto online:**  
+👉 [https://todolist-sigma-taupe.vercel.app/](https://todolist-sigma-taupe.vercel.app/)
+
 ## 🚀 Funcionalidades
 
 - 🔍 **Pesquisa em tempo real**: filtre tarefas enquanto digita.
